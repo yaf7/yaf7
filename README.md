@@ -10,28 +10,33 @@
 
 ---
 
-### 👨‍💻 Profil Profesional
+###  Profil Profesional
 Halo! Saya **Deyafa Arsetya**, mahasiswa Manajemen Informatika di **Politeknik Negeri Malang (POLINEMA) PSDKU Kediri**.
 
-- 🎓 **Pendidikan**: D3 Manajemen Informatika, POLINEMA Kediri.
-- 🛠️ **Keahlian Teknis**: Laravel Framework, PHP, MySQL, dan Kotlin.
-- 📍 **Lokasi**: Kediri, Jawa Timur, Indonesia.
+-  **Pendidikan**: D3 Manajemen Informatika, POLINEMA Kediri.
+-  **Keahlian Teknis**: Laravel Framework, PHP, MySQL, dan Kotlin.
+-  **Lokasi**: Kediri, Jawa Timur, Indonesia.
 
-### 📑 Publikasi Ilmiah 
+###  Publikasi Ilmiah 
 Karya tulis ilmiah saya dipublikasikan pada **Router: Jurnal Teknik Informatika dan Terapan**:
-- 📄 **Judul**: *Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri*.
-- 🔑 **Keywords**: Framework Laravel, NPWPD, Public Service, System, Transparency.
-- 🔗 **DOI**: [https://doi.org/10.62951/router.v3i4.821](https://doi.org/10.62951/router.v3i4.821)
+-  **Judul**: *Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri*.
+-  **Keywords**: Framework Laravel, NPWPD, Public Service, System, Transparency.
+-  **DOI**: [https://doi.org/10.62951/router.v3i4.821](https://doi.org/10.62951/router.v3i4.821)
 
-### 📚 Jejak Akademik & Referensi
+###  Jejak Akademik & Referensi
 Daftar lengkap publikasi dan profil akademis saya dapat ditemukan di platform berikut:
 - [Google Scholar](https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=deyafa+arsetya&btnG=)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Deyafa-Arsetya/2409669148)
 - [ResearchGate](https://www.researchgate.net/scientific-contributions/Deyafa-Arsetya-2339219170)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaf7&show_icons=true&theme=dark" alt="Deyafa Arsetya GitHub Stats" />
+###  Teknologi & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 <p align="center">
