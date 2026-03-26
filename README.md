@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Management Informatics Student | Software Developer</strong>
+  <strong>Management Informatics Student | Junior Software Developer</strong>
 </p>
 
 ---
