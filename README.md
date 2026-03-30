@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Management Informatics | Junior Web & Mobile Developer</strong>
+  <strong>Management Informatics | Web & Mobile Developer</strong>
 </p>
 
 ---
