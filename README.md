@@ -71,8 +71,10 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaf7&show_icons=true&theme=react&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Yafa's GitHub Stats" width="70%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yaf7&show_icons=true&count_private=true&hide_border=false&bg_color=0a0f1d&title_color=00d2ff&icon_color=00d2ff&text_color=acb4c2" alt="Yafa's GitHub Stats" width="70%"/>
 </p>
+
+---
 
 ---
 
