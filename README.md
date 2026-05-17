@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Management Informatics | Full-Stack Web & Mobile Developer</strong>
+  <strong>Management Informatics | Web & Mobile Developer</strong>
 </p>
 
 <p align="center">
