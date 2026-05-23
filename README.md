@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- PREMIUM DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/content?type=waving&color=auto:gradient&height=280&section=header&text=Deyafa%20Arsetya&fontSize=55&animation=fadeIn&theme=dark" width="100%" />
+<!-- HEADER GRADIENT -->
+<img src="https://capsule-render.vercel.app/content?type=waving&color=auto:gradient&height=280&section=header&text=Welcome%20to%20My%20Space&fontSize=55&animation=fadeIn&theme=dark" width="100%" />
 
 <!-- PROFILE AVATAR WITH NEON EFFECT (CIRCULAR) -->
 <br/>
 <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="160" style="border-radius: 50%; border: 3px solid #7F52FF; box-shadow: 0 0 20px rgba(127, 82, 255, 0.6);" />
 
-###  Management Informatics | Web & Mobile Developer
+### ⚡ Management Informatics | Full-Stack Web & Mobile Developer
 
 <!-- SOCIAL BADGES WITH FLUID DESIGN -->
 <p align="center">
@@ -19,15 +19,15 @@
 
 ---
 
-###  Profil Profesional
+### 🪐 About Me
 
 <p align="left">
-  Halo! Saya <b>Deyafa Arsetya</b> (Yafa)
+  Halo! Saya <b>Deyafa Arsetya</b> (Yafa), seorang developer berbakat yang fokus pada pengembangan ekosistem web dan aplikasi mobile modern. Memadukan struktur arsitektur <i>backend</i> yang solid dengan antarmuka <i>frontend</i> yang interaktif dan responsif untuk menghadirkan solusi teknologi performa tinggi.
 </p>
 
 ---
 
-###  Publikasi Ilmiah & Jejak Akademik
+### 📑 Publikasi Ilmiah & Jejak Akademik
 
 > **Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri**
 > Karya tulis ilmiah yang berfokus pada digitalisasi layanan publik, akuntabilitas, serta transparansi sistem pemerintahan lokal.
@@ -45,7 +45,7 @@
 
 ---
 
-###  Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Ecosystem
 
 <p align="left">
   <!-- Languages & Core -->
@@ -71,26 +71,26 @@
 
 ---
 
-###  Elite Performance & GitHub Statistics
+### 📊 Elite Performance & GitHub Statistics
 
 <div align="center">
   <!-- Grid layout to keep statistics beautifully aligned -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <!-- STATS CARD -->
-        <img src="https://github-readme-stats.vercel.com/api?username=yaf7&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_title=false&disable_animations=false" alt="GitHub Stats" width="100%" />
+        <!-- STATS CARD (SERVER RESMI) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=yaf7&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <!-- STREAK CARD -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaf7&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
+        <!-- STREAK CARD (SERVER RESMI) -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaf7&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
         <br />
-        <!-- MOST USED LANGUAGES -->
-        <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=yaf7&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" width="100%" />
+        <!-- MOST USED LANGUAGES (SERVER RESMI) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaf7&layout=compact&theme=tokyonight&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@
 
 ---
 
-###  Recent Productivity Graph
+### ⚡ Recent Productivity Graph
 
 <div align="center">
   <!-- Dynamic wave activity metrics -->
@@ -109,5 +109,5 @@
 
 <div align="center">
   <br />
-  <p><i>Profil ini dikelola secara berkala oleh <b>Deyafa Arsetya</i></p>
+  <p><i>Profil ini dikelola secara berkala oleh <b>Deyafa Arsetya</b>. Crafted with passion. ✨</i></p>
 </div>
