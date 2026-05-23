@@ -21,13 +21,13 @@ Halo! Saya **Deyafa Arsetya** (Yafa)
 
 ---
 
-###  Publikasi Ilmiah 
+  Publikasi Ilmiah 
 Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 - 📑 **Judul**: *Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri*.
 - 🔑 **Keywords**: Framework Laravel, NPWPD, Public Service, System, Transparency.
 - 🔗 **DOI**: [https://doi.org/10.62951/router.v3i4.821](https://doi.org/10.62951/router.v3i4.821)
 
-####  Jejak Akademik & Referensi
+  Jejak Akademik & Referensi
 <p align="left">
   <a href="https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=deyafa+arsetya&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.semanticscholar.org/author/Deyafa-Arsetya/2409669148"><img src="https://img.shields.io/badge/Semantic_Scholar-222F3E?style=flat-square&logo=semantic-scholar&logoColor=white" alt="Semantic Scholar"></a>
@@ -36,7 +36,7 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 
 ---
 
-###  Tech Stack
+  Tech Stack
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -64,14 +64,13 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 
 ---
 
-###  GitHub Stats & Aktivitas
+  GitHub Stats & Aktivitas
 
 ![](https://github-readme-stats.shion.dev/api?username=yaf7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=yaf7&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaf7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-###  Grafik Produktivitas Terkini
+  Grafik Produktivitas Terkini
 <div align="center"> <!-- Dynamic wave activity metrics --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaf7&theme=tokyonight&bg_color=1a1b26&hide_border=false&area=true" width="100%" alt="Activity Graph" /> </div>
 ---
 
