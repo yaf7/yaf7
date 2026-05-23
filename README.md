@@ -66,13 +66,9 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 
 ###  GitHub Stats & Aktivitas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaf7&theme=tokyonight&hide_border=false&background=0a0f1d&ring=a955f7&fire=a955f7&currStreakNum=a955f7" alt="GitHub Streak" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yaf7&show_icons=true&count_private=true&hide_border=false&bg_color=0a0f1d&title_color=00d2ff&icon_color=00d2ff&text_color=acb4c2" alt="Yafa's GitHub Stats" width="70%"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=yaf7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yaf7&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaf7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
