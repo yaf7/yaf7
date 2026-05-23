@@ -1,4 +1,4 @@
-# Deyafa Arsetya 
+ Deyafa Arsetya 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -15,13 +15,13 @@
 
 ---
 
-###  Profil Profesional
+  Profil Profesional
 Halo! Saya **Deyafa Arsetya** (Yafa)
 
 
 ---
 
-  Publikasi Ilmiah 
+ Publikasi Ilmiah 
 Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 - 📑 **Judul**: *Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri*.
 - 🔑 **Keywords**: Framework Laravel, NPWPD, Public Service, System, Transparency.
