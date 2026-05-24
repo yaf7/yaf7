@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://instagram.com/yffaarz"><img src="https://img.shields.io/badge/Instagram-@yffaarz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@yafaark"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="Tiktok"></a>
 </p>
 
 ---
@@ -66,8 +67,9 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
 
   GitHub Stats & Aktivitas
 
-![](https://github-readme-stats.shion.dev/api?username=yaf7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yaf7&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=yaf7&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yaf7&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaf7&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
   Grafik Produktivitas Terkini
