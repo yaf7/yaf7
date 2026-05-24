@@ -16,9 +16,7 @@
 
 ---
 
-  Profil Profesional
 Halo! Saya **Deyafa Arsetya** (Yafa)
-
 
 ---
 
