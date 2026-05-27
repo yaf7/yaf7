@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>Management Informatics | Web & Mobile Developer</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://instagram.com/yffaarz"><img src="https://img.shields.io/badge/Instagram-@yffaarz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://tiktok.com/@yafaark"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="Tiktok"></a>
