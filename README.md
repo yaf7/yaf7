@@ -42,6 +42,7 @@ Karya tulis ilmiah saya yang berfokus pada digitalisasi layanan publik:
   <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-1a1b26?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
   <img src="https://img.shields.io/badge/Kotlin-1a1b26?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   <br>
   <!-- Frameworks & Libs -->
   <img src="https://img.shields.io/badge/Laravel-1a1b26?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
