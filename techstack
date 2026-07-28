@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" role="img" aria-label="TECH STACK">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad-ts" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090c"/>
+      <stop offset="100%" stop-color="#0e1017"/>
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="glow-green-ts">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow-amber-ts">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Background Grid -->
+    <pattern id="grid-ts" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#f59e0b" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="800" height="380" rx="14" fill="url(#bg-grad-ts)"/>
+  <rect width="800" height="380" rx="14" fill="url(#grid-ts)"/>
+
+  <!-- Border -->
+  <rect x="2" y="2" width="796" height="376" rx="12" fill="none" stroke="#10b981" stroke-width="1.2" opacity="0.4"/>
+
+  <!-- Corner Brackets -->
+  <g stroke="#10b981" stroke-width="2" fill="none">
+    <path d="M 10 22 V 10 H 22"/>
+    <path d="M 778 22 V 10 H 790"/>
+    <path d="M 10 358 V 370 H 22"/>
+    <path d="M 778 358 V 370 H 790"/>
+  </g>
+
+  <!-- Title (Hanya TECH_STACK, tanpa ARSENAL) -->
+  <g font-family="'Fira Code', 'JetBrains Mono', monospace" text-anchor="middle">
+    <text x="400" y="45" font-size="20" font-weight="800" letter-spacing="4" fill="#f59e0b" filter="url(#glow-amber-ts)">
+      ⚡ TECH_STACK
+    </text>
+  </g>
+
+  <!-- Badges Grid Container -->
+  <g font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="700">
+    
+    <!-- BARIS 1: HTML5, CSS3, JavaScript, PHP, Kotlin, Python -->
+    <g transform="translate(40, 80)">
+      <!-- HTML5 -->
+      <g transform="translate(0, 0)">
+        <rect width="85" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="42.5" y="22" text-anchor="middle" fill="#e34f26">HTML5</text>
+      </g>
+      <!-- CSS3 -->
+      <g transform="translate(97, 0)">
+        <rect width="75" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="37.5" y="22" text-anchor="middle" fill="#1572b6">CSS3</text>
+      </g>
+      <!-- JavaScript -->
+      <g transform="translate(184, 0)">
+        <rect width="115" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="57.5" y="22" text-anchor="middle" fill="#f7df1e">JavaScript</text>
+      </g>
+      <!-- PHP -->
+      <g transform="translate(311, 0)">
+        <rect width="65" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="32.5" y="22" text-anchor="middle" fill="#777bb4">PHP</text>
+      </g>
+      <!-- Kotlin -->
+      <g transform="translate(388, 0)">
+        <rect width="85" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="42.5" y="22" text-anchor="middle" fill="#7f52ff">Kotlin</text>
+      </g>
+      <!-- Python -->
+      <g transform="translate(485, 0)">
+        <rect width="90" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="45" y="22" text-anchor="middle" fill="#3776ab">Python</text>
+      </g>
+    </g>
+
+    <!-- BARIS 2: Laravel, React, Next.js, Bootstrap -->
+    <g transform="translate(40, 145)">
+      <!-- Laravel -->
+      <g transform="translate(0, 0)">
+        <rect width="95" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="47.5" y="22" text-anchor="middle" fill="#ff2d20">Laravel</text>
+      </g>
+      <!-- React -->
+      <g transform="translate(107, 0)">
+        <rect width="85" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="42.5" y="22" text-anchor="middle" fill="#61dafb">React</text>
+      </g>
+      <!-- Next.js -->
+      <g transform="translate(204, 0)">
+        <rect width="95" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="47.5" y="22" text-anchor="middle" fill="#ffffff">Next.js</text>
+      </g>
+      <!-- Bootstrap -->
+      <g transform="translate(311, 0)">
+        <rect width="110" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="55" y="22" text-anchor="middle" fill="#7952b3">Bootstrap</text>
+      </g>
+    </g>
+
+    <!-- BARIS 3: MySQL, Firebase, Supabase -->
+    <g transform="translate(40, 210)">
+      <!-- MySQL -->
+      <g transform="translate(0, 0)">
+        <rect width="85" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="42.5" y="22" text-anchor="middle" fill="#00758f">MySQL</text>
+      </g>
+      <!-- Firebase -->
+      <g transform="translate(97, 0)">
+        <rect width="100" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="50" y="22" text-anchor="middle" fill="#ffca28">Firebase</text>
+      </g>
+      <!-- Supabase -->
+      <g transform="translate(209, 0)">
+        <rect width="105" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="52.5" y="22" text-anchor="middle" fill="#3ecf8e">Supabase</text>
+      </g>
+    </g>
+
+    <!-- BARIS 4: Vite, npm, Git -->
+    <g transform="translate(40, 275)">
+      <!-- Vite -->
+      <g transform="translate(0, 0)">
+        <rect width="75" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="37.5" y="22" text-anchor="middle" fill="#646cff">Vite</text>
+      </g>
+      <!-- npm -->
+      <g transform="translate(87, 0)">
+        <rect width="70" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="35" y="22" text-anchor="middle" fill="#cb3837">npm</text>
+      </g>
+      <!-- Git -->
+      <g transform="translate(169, 0)">
+        <rect width="70" height="34" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="35" y="22" text-anchor="middle" fill="#f05033">Git</text>
+      </g>
+    </g>
+
+  </g>
+
+  <!-- Footer Tag -->
+  <text x="760" y="355" text-anchor="end" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="9" fill="#4b5563" letter-spacing="1">
+    SYSTEM_MODULE_V2.0
+  </text>
+</svg>
