@@ -38,15 +38,6 @@
 
 <br>
 
-<!-- Pac-Man Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
 ---
 
 ### Publikasi Ilmiah
@@ -69,11 +60,11 @@
 
 ### GitHub Stats & Aktivitas
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yaf7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=yaf7&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yaf7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="github-stats.svg" alt="GitHub Stats" width="100%">
+</div>
+
+<br>
 
 <h3 align="center">Data City Contribution Graph</h3>
 
