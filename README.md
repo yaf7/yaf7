@@ -22,7 +22,14 @@
 <br>
 
 <div align="center">
-  <!-- Foto Profil Utama (Lebih Besar & Efek Neon) di antara Tech Stack dan Publikasi Ilmiah -->
+  <!-- Animated Machine Learning Visual -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Foto Profil Utama (Lebih Besar & Efek Neon) -->
   <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="240" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981; margin: 20px 0;">
 </div>
 
