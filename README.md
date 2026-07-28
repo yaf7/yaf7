@@ -81,12 +81,6 @@
   <img src="profile-3d-contrib/profile-night-view.svg" alt="Data City Contribution Graph" width="100%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaf7&theme=tokyonight&hide_border=false&area=true" width="100%" alt="Activity Graph" />
-</div>
-
 ---
 
 <p align="center">
