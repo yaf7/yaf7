@@ -1,17 +1,12 @@
 <div align="center">
-  <!-- Foto Profil Utama dengan Efek Neon Glow -->
-  <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(16, 185, 129, 0.4); border: 2px solid #10b981; margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <!-- Banner Header SVG Kustom -->
+  <!-- Banner Header SVG -->
   <img src="header.svg" alt="Deyafa Arsetya Profile Header" width="100%">
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Lencana Sosial Media & Kontak (Tema Gelap Serasi) -->
+  <!-- Lencana Sosial Media & Kontak -->
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=for-the-badge&color=10b981&labelColor=08090c" alt="GitHub Followers"></a>
   <a href="https://instagram.com/_deyafaarsetya"><img src="https://img.shields.io/badge/Instagram-08090c?style=for-the-badge&logo=instagram&logoColor=f59e0b&color=08090c&labelColor=08090c" alt="Instagram"></a>
   <a href="https://tiktok.com/@yafaark"><img src="https://img.shields.io/badge/TikTok-08090c?style=for-the-badge&logo=TikTok&logoColor=10b981&color=08090c&labelColor=08090c" alt="Tiktok"></a>
@@ -20,7 +15,14 @@
 <br>
 
 <div align="center">
-  <!-- Tech Stack SVG Card Terpadu -->
+  <!-- Foto Profil Utama (Diperbesar & Diberi Efek Neon) -->
+  <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="220" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981; margin: 15px 0;">
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Tech Stack SVG Card -->
   <img src="techstack.svg" alt="Tech Stack" width="100%">
 </div>
 
