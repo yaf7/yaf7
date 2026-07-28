@@ -82,7 +82,7 @@
   </g>
 
   <!-- Cyber Scorpion Emblem (Center Icon Graphic) -->
-  <g transform="translate(400, 115)" filter="url(#neon-glow)">
+  <g transform="translate(400, 110)" filter="url(#neon-glow)">
     <path d="M -15,10 C -25,0 -20,-20 0,-25 C 18,-25 25,-12 20,5 C 18,12 10,15 0,15 C -8,15 -12,8 -8,2 C -5,-3 0,-4 4,-2" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linecap="round"/>
     <polygon points="4,-2 10,-8 1,-5" fill="#f59e0b"/>
     <path d="M -22,12 L -35,2 L -28,-8 M -35,2 L -42,-4" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
@@ -92,19 +92,29 @@
   <!-- Title & Subtitle Section -->
   <g text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', monospace">
     <!-- Main Name -->
-    <text x="400" y="195" font-size="38" font-weight="900" letter-spacing="4" fill="#ffffff" filter="url(#neon-glow)">
+    <text x="400" y="185" font-size="38" font-weight="900" letter-spacing="4" fill="#ffffff" filter="url(#neon-glow)">
       DEYAFA ARSETYA
     </text>
-    <text x="400" y="195" font-size="38" font-weight="900" letter-spacing="4" fill="#10b981">
+    <text x="400" y="185" font-size="38" font-weight="900" letter-spacing="4" fill="#10b981">
       DEYAFA ARSETYA
     </text>
 
-    <!-- Subtitle (UPDATED) -->
-    <text x="400" y="235" font-size="14" font-weight="600" letter-spacing="2" fill="#f59e0b">
+    <!-- Subtitle -->
+    <text x="400" y="225" font-size="14" font-weight="600" letter-spacing="2" fill="#f59e0b">
       WEB &amp; MOBILE DEVELOPER | SYSTEM ANALYST | DATA ANALYST
     </text>
   </g>
 
   <!-- Bottom Divider Line -->
-  <line x1="150" y1="268" x2="650" y2="268" stroke="url(#edge-grad)" stroke-width="1" opacity="0.4"/>
+  <line x1="100" y1="255" x2="700" y2="255" stroke="url(#edge-grad)" stroke-width="1" opacity="0.4"/>
+
+  <!-- Static Accent Scorpions di Kiri & Kanan Garis Bawah -->
+  <g filter="url(#neon-glow)" opacity="0.85" transform="translate(130, 255) scale(0.5)">
+    <path d="M -15,10 C -25,0 -20,-20 0,-25 C 18,-25 25,-12 20,5 C 18,12 10,15 0,15 C -8,15 -12,8 -8,2 C -5,-3 0,-4 4,-2" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="4,-2 10,-8 1,-5" fill="#f59e0b"/>
+  </g>
+  <g filter="url(#neon-glow)" opacity="0.85" transform="translate(670, 255) scale(0.5) scale(-1, 1)">
+    <path d="M -15,10 C -25,0 -20,-20 0,-25 C 18,-25 25,-12 20,5 C 18,12 10,15 0,15 C -8,15 -12,8 -8,2 C -5,-3 0,-4 4,-2" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="4,-2 10,-8 1,-5" fill="#f59e0b"/>
+  </g>
 </svg>
