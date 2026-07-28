@@ -15,15 +15,15 @@
 <br>
 
 <div align="center">
-  <!-- Foto Profil Utama (Diperbesar & Diberi Efek Neon) -->
-  <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="220" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981; margin: 15px 0;">
+  <!-- Tech Stack SVG Card -->
+  <img src="techstack.svg" alt="Tech Stack" width="100%">
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Tech Stack SVG Card -->
-  <img src="techstack.svg" alt="Tech Stack" width="100%">
+  <!-- Foto Profil Utama (Lebih Besar & Efek Neon) di antara Tech Stack dan Publikasi Ilmiah -->
+  <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="240" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981; margin: 20px 0;">
 </div>
 
 ---
