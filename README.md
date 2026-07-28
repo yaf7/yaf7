@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <!-- Lencana Sosial Media & Kontak (LinkedIn Diperbaiki) -->
+  <!-- Lencana Sosial Media & Kontak -->
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=for-the-badge&color=10b981&labelColor=08090c" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/deyafa-arsetya"><img src="https://img.shields.io/badge/LinkedIn-08090c?style=for-the-badge&logo=linkedin&logoColor=0a66c2&color=08090c&labelColor=08090c" alt="LinkedIn"></a>
   <a href="https://instagram.com/_deyafaarsetya"><img src="https://img.shields.io/badge/Instagram-08090c?style=for-the-badge&logo=instagram&logoColor=f59e0b&color=08090c&labelColor=08090c" alt="Instagram"></a>
@@ -36,9 +36,20 @@
   </table>
 </div>
 
+<br>
+
+<!-- Pac-Man Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
 ---
 
-###  Publikasi Ilmiah
+### Publikasi Ilmiah
 
 > **Sistem Informasi Modul Registrasi NPWPD Berbasis Laravel pada BPPKAD Kota Kediri**
 > 
@@ -46,7 +57,7 @@
 > * 🔑 **Keywords**: *Framework Laravel, NPWPD, Public Service, System, Transparency*
 > * 🔗 **DOI**: [https://doi.org/10.62951/router.v3i4.821](https://doi.org/10.62951/router.v3i4.821)
 
-###  Jejak Akademik & Referensi
+### Jejak Akademik & Referensi
 
 <p align="left">
   <a href="https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=deyafa+arsetya&btnG="><img src="https://img.shields.io/badge/Google_Scholar-08090c?style=for-the-badge&logo=google-scholar&logoColor=f59e0b" alt="Google Scholar"></a>
@@ -56,7 +67,7 @@
 
 ---
 
-###  GitHub Stats & Aktivitas
+### GitHub Stats & Aktivitas
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=yaf7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
@@ -79,5 +90,5 @@
 ---
 
 <p align="center">
-  <em> Dikelola oleh Deyafa Arsetya.</em>
+  <em>Dikelola oleh Deyafa Arsetya.</em>
 </p>
