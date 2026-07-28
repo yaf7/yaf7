@@ -6,9 +6,9 @@
 <br>
 
 <div align="center">
-  <!-- Lencana Sosial Media & Kontak -->
+  <!-- Lencana Sosial Media & Kontak (LinkedIn Diperbaiki) -->
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=for-the-badge&color=10b981&labelColor=08090c" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/deyafa-arsetya"><img src="https://img.shields.io/badge/LinkedIn-08090c?style=for-the-badge&logo=linkedin&logoColor=10b981&color=08090c&labelColor=08090c" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/deyafa-arsetya"><img src="https://img.shields.io/badge/LinkedIn-08090c?style=for-the-badge&logo=linkedin&logoColor=0a66c2&color=08090c&labelColor=08090c" alt="LinkedIn"></a>
   <a href="https://instagram.com/_deyafaarsetya"><img src="https://img.shields.io/badge/Instagram-08090c?style=for-the-badge&logo=instagram&logoColor=f59e0b&color=08090c&labelColor=08090c" alt="Instagram"></a>
   <a href="https://tiktok.com/@yafaark"><img src="https://img.shields.io/badge/TikTok-08090c?style=for-the-badge&logo=TikTok&logoColor=10b981&color=08090c&labelColor=08090c" alt="Tiktok"></a>
 </div>
