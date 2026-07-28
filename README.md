@@ -22,14 +22,18 @@
 
 <br>
 
-<!-- Layout Responsif (Flexbox): Berdampingan di Laptop, Otomatis Bertumpuk di HP -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <div>
-    <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="190" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981;">
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" style="max-width: 100%; height: auto;" alt="Animated machine learning visual">
-  </div>
+<!-- Layout Berdampingan: Foto di Kiri & Animasi di Kanan -->
+<div align="center">
+  <table border="0" align="center" style="border: none;">
+    <tr>
+      <td align="center" style="padding: 10px; border: none;">
+        <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="200" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981;">
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="340" alt="Animated machine learning visual">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
