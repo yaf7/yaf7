@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/yaf7"><img src="https://img.shields.io/github/followers/yaf7?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://instagram.com/yffaarz"><img src="https://img.shields.io/badge/Instagram-1a1b26?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="https://instagram.com/_deyafaarsetya"><img src="https://img.shields.io/badge/Instagram-1a1b26?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
   <a href="https://tiktok.com/@yafaark"><img src="https://img.shields.io/badge/TikTok-1a1b26?style=flat&logo=TikTok&logoColor=white" alt="Tiktok"></a>
 </p>
 
