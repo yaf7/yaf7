@@ -30,7 +30,7 @@
         <img src="https://github.com/user-attachments/assets/a5a24b63-6cc0-4aae-8422-4fbdd9b3e812" alt="Deyafa Arsetya" width="200" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.5); border: 2.5px solid #10b981;">
       </td>
       <td align="center" style="padding: 10px; border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="340" alt="Animated machine learning visual">
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="340" alt="Animated machine learning visual">
       </td>
     </tr>
   </table>
