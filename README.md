@@ -58,15 +58,14 @@
 
 ---
 
-### GitHub Stats & Aktivitas
+<br>
 
 <div align="center">
   <img src="github-stats.svg" alt="GitHub Stats" width="100%">
 </div>
 
-<br>
 
-<h3 align="center">Data City Contribution Graph</h3>
+---
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="Data City Contribution Graph" width="100%" />
