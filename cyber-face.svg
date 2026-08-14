@@ -17,8 +17,8 @@
     }
   </style>
   
-  <!-- Memanggil foto wajah.png kamu secara otomatis -->
-  <image href="https://raw.githubusercontent.com/yaf7/yaf7/main/wajah.png" width="300" height="300" preserveAspectRatio="xMidYMid slice" />
+  <!-- Memanggil foto wajah.png dari folder yang sama secara langsung -->
+  <image href="wajah.png" width="300" height="300" preserveAspectRatio="xMidYMid slice" />
   
   <!-- Efek pendaran/filter warna cyber-green di seluruh foto -->
   <rect width="300" height="300" fill="rgba(16, 185, 129, 0.15)" />
