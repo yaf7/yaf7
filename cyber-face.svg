@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <!-- Gradasi untuk garis scanline -->
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(16, 185, 129, 0)" />
+      <stop offset="50%" stop-color="rgba(16, 185, 129, 0.4)" />
+      <stop offset="100%" stop-color="rgba(16, 185, 129, 0.9)" />
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes scan {
+      0% { transform: translateY(-50px); }
+      100% { transform: translateY(300px); }
+    }
+    .scanline {
+      animation: scan 2.5s linear infinite;
+    }
+  </style>
+  
+  <!-- Memanggil foto wajah.png kamu secara otomatis -->
+  <image href="https://raw.githubusercontent.com/yaf7/yaf7/main/wajah.png" width="300" height="300" preserveAspectRatio="xMidYMid slice" />
+  
+  <!-- Efek pendaran/filter warna cyber-green di seluruh foto -->
+  <rect width="300" height="300" fill="rgba(16, 185, 129, 0.15)" />
+  
+  <!-- Kotak Scanline Animasi -->
+  <rect width="300" height="40" fill="url(#scanGrad)" class="scanline" />
+  
+  <!-- Bingkai (Border) -->
+  <rect width="300" height="300" fill="none" stroke="#10b981" stroke-width="6" rx="10" />
+</svg>
